@@ -1,5 +1,10 @@
 package theater;
 
+/**
+ * Description of Play class.
+ *
+ * @null this class does not allow null parameters
+ */
 public class Play {
 
     private final String name;
